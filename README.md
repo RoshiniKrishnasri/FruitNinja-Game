@@ -35,7 +35,7 @@ This game was developed to:
 ![Start Screen](https://github.com/RoshiniKrishnasri/FruitNinja-Game/blob/main/Media/FirstScreen%20-%20Copy.png)
 
 ###  🍉 Game Screen
-![Game Over Screen](<img width="328" height="254" alt="GameScreen" src="https://github.com/user-attachments/assets/e3f2073f-ed49-4b29-9ada-9588e2a14ed4" />)
+![Game Over Screen](https://github.com/RoshiniKrishnasri/FruitNinja-Game/blob/main/Media/GameScreen.png)
 
 ### 💀 Game Over Screen
 ![Game Over Screen](<img width="356" height="266" alt="GameOverScreen" src="https://github.com/user-attachments/assets/17adf2fc-c9e4-490d-93b7-e1e647e155a3" />)
