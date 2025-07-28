@@ -45,3 +45,7 @@ This game was developed to:
 ## 👩‍💻 Author
 
 **Roshini Krishna Sri**  
+### 👩‍🏫Acknowledgements
+
+I would like to express my sincere gratitude to my mentor, **Prathima Kadari**, for her valuable guidance and support throughout the development of this project.
+
