@@ -29,19 +29,20 @@ This game was developed to:
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-### 🔹 First Screen 🍉
-*(Add a screenshot of your game’s welcome screen here)*
+### 🎮 Start Screen
+![Start Screen](assets/FirstScreen.png)
 
-### 🔹 Gameplay 🍉💥❌
-*(Insert a screenshot of the game in action with score and lives)*
+### 🍉 In-Game Screen (Fruits & Score)
+![Game Screen](assets/GameScreen.png)
 
-### 🔹 Game Over Screen ❌💥
-*(Upload a screenshot of the Game Over screen)*
 
-### 🔹 Fruit Slicing Function
-*(Add a visual of a fruit being sliced, if available)*
+### 💀 Game Over Screen
+![Game Over Screen](assets/GameOverScreen.png)
+
+### 🪵 Game Background
+![Game Background](assets/background.png)
 
 ---
 
