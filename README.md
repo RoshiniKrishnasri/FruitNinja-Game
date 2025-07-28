@@ -32,17 +32,13 @@ This game was developed to:
 ## 📸 Screenshots
 
 ### 🎮 Start Screen
-![Start Screen](assets/FirstScreen.png)
+![Start Screen](<img width="846" height="697" alt="FirstScreen" src="https://github.com/user-attachments/assets/878ddfca-6bd5-4e64-9972-235bcfd833d9" />)
 
-### 🍉 In-Game Screen (Fruits & Score)
-![Game Screen](assets/GameScreen.png)
-
+###  🍉 Game Screen
+![Game Over Screen](<img width="328" height="254" alt="GameScreen" src="https://github.com/user-attachments/assets/e3f2073f-ed49-4b29-9ada-9588e2a14ed4" />)
 
 ### 💀 Game Over Screen
-![Game Over Screen](assets/GameOverScreen.png)
-
-### 🪵 Game Background
-![Game Background](assets/background.png)
+![Game Over Screen](<img width="356" height="266" alt="GameOverScreen" src="https://github.com/user-attachments/assets/17adf2fc-c9e4-490d-93b7-e1e647e155a3" />)
 
 ---
 
