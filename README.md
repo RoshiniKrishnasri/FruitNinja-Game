@@ -38,7 +38,7 @@ This game was developed to:
 ![Game Over Screen](https://github.com/RoshiniKrishnasri/FruitNinja-Game/blob/main/Media/GameScreen.png)
 
 ### 💀 Game Over Screen
-![Game Over Screen](<img width="356" height="266" alt="GameOverScreen" src="https://github.com/user-attachments/assets/17adf2fc-c9e4-490d-93b7-e1e647e155a3" />)
+![Game Over Screen](https://github.com/RoshiniKrishnasri/FruitNinja-Game/blob/main/Media/GameOverScreen.png)
 
 ---
 
